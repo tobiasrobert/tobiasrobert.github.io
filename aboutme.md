@@ -26,6 +26,17 @@ Here you will find my resume, last updated on October 2025.
 - **2024 - present** : *Tutor in physics and chemistry* for a middle school student, ***Romagnat (France)***.
 - **2024** : *Trainer of activity leaders*, participating to a week of training session for the french "*BAFA*" activity leaders certifications. ***Éclaireuses Éclaireurs de France, Viscomtat (France)***.
 - **2024** : *Activity leader in a leisure center*, in charge of a group of 10 children for three weeks of leisure center. Full-time contract. ***City of Blanzat (France)***
-- **2021** : *MathC2+ intern* : participated to a selective internship for high school students at the Mathematics department of ***Université Clermont Auvergne during one week**. I there discovered research and worked on enigmas resolution. **Aubière (France)***.
+- **2021** : *MathC2+ intern* : participated to a selective internship for high school students at the Mathematics department of ***Université Clermont Auvergne during one week***. I there discovered research and worked on enigmas resolution. ***Aubière (France)***.
 
-###Involvements and volunteering
+### Involvements and volunteering
+
+- **2023 - present** : at *Éclaireuses, Éclaireurs de France* : Responsible of the association partnership with German scouts federation "*Bund der Pfadfinder\*innen*", organizing international camps and events. Member of the association international team in charge of training and accompanying groups that want to have projects abroad. Trainer for the French activity leading certification "BAFA", Activity leader and summer camps director (training for the French "BAFD" direction certification).
+- **2022 - 2023** : elected member of the *Conseil Académique à la Vie Lycéenne* : high school students representative at the regional level, *Académie de Clermont-Ferrand*
+- **2020 - 2022** : at *Secours Populaire Français* : Volunteer tutor for primary and middle schools students accompanied by the program for school aid with *Secours Populaire Français* in Clermont-Ferrand.
+
+### Competences
+
+- **Languages** : French (*native*) - English (*B2*) - Italian (*B1*)
+- **Computer-science-related** : Python, LaTeX
+- **Project organization**
+- **Activity leading** : BAFA, BAFD (in training)
