@@ -37,6 +37,6 @@ Here you will find my resume, last updated on October 2025.
 ### Competences
 
 - **Languages** : French (*native*) - English (*B2*) - Italian (*B1*)
-- **Computer-science-related** : Python, LaTeX
+- **Computer-science related** : Python, LaTeX
 - **Project organization**
 - **Activity leading** : BAFA, BAFD (in training)
